@@ -1,0 +1,28 @@
+.question {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+}
+
+.mechanics {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.choices {
+    display: flex;
+    flex-direction: column;
+    margin-left: 500px;
+    font-size: larger;
+}
+
+.choiceAnswer {
+    background-color: aquamarine;
+    border: 2px;
+    border-style: solid;
+    border-radius: 5px;
+    width: fit-content;
+}

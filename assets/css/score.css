@@ -1,0 +1,17 @@
+html {
+    height: 100%;
+}
+
+
+
+.header {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 1px;
+    border-style: solid;
+    border-top: white;
+    border-left: white;
+    border-right: white;
+}
